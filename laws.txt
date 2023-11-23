@@ -1,0 +1,2 @@
+Turn Around time = Completion time – arrival time
+Waiting Time = Turn around time – burst time
